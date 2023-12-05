@@ -1,0 +1,33 @@
+Nombre: Juan
+Apellido: Pepe
+Edad: 31 años
+Talla: 1.81 metros
+Peso: 80.0 kg
+Frecuencia de ejercicio: 4
+Tipo de plan: 4
+Fecha de ingreso: Mon Dec 04 21:54:47 PET 2023
+Fecha de expiración: Wed Jan 08 21:54:47 PET 2025
+
+Nombre: Jose
+Apellido: Lopez
+Edad: 29 años
+Talla: 1.78 metros
+Peso: 76.0 kg
+
+ Tipo de Plan: 0
+Frecuencia de ejercicio: 2
+Ejercicio ligero (1-2 veces por semana)
+Fecha de ingreso: Mon Dec 04 22:01:09 PET 2023
+Fecha de expiración: Mon Mar 18 22:01:09 PET 2024
+
+Nombre: Fabri
+Apellido: Lopez
+Edad: 16 años
+Talla: 1.6 metros
+Peso: 76.0 kg
+Tipo de Plan: 0
+Frecuencia de ejercicio: 2
+Ejercicio ligero (1-2 veces por semana)
+Fecha de ingreso: Mon Dec 04 22:02:16 PET 2023
+Fecha de expiración: Mon Mar 18 22:02:16 PET 2024
+
